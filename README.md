@@ -1,9 +1,9 @@
 # Tindev
 
-* Dark Mode
+#### Dark Mode
 ![](darkmode.gif)
 
-* Layout responsivo
+#### Layout responsivo
 ![](isamatch.gif)
 
 ## Projeto da Semana Omnistack #8
